@@ -8,14 +8,8 @@
 
 ---
 
-### Deploy Your Own **PRABATH-MD Bot**  
-
-<p align="center">  
-  <a href="https://prabathmd-official.vercel.app/">  
-    <img src="https://img.shields.io/badge/DEPLOY-CLICK%20HERE-brightgreen?style=for-the-badge&logo=whatsapp" alt="Deploy PRABATH-MD">  
-  </a>  
-</p>  
-
+### <b> Deploy on Heroku</b>
+<a href="https://dashboard.heroku.com/new?button-url=https%3A%2F%2Fgithub.com%2Fcheekydavy%2Fprabath-multi-device&template=https%3A%2F%2Fgithub.com%2Fcheekydavy%2Fprabath-multi-device.git#"><img src="https://img.shields.io/badge/DEPLOY-greeen" alt="Create prabath-md bot" width="150"></a>
 
 ### Fork This Repository  
 
